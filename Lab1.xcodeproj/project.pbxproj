@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		362A8C031CDF045F0019AE72 /* PlayerDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362A8C021CDF045F0019AE72 /* PlayerDetailsViewController.swift */; };
+		362A8C051CDF11910019AE72 /* GamePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362A8C041CDF11910019AE72 /* GamePickerViewController.swift */; };
 		362D0B101CC862F60069D2C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362D0B0F1CC862F60069D2C5 /* AppDelegate.swift */; };
 		362D0B121CC862F60069D2C5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362D0B111CC862F60069D2C5 /* ViewController.swift */; };
 		362D0B151CC862F60069D2C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 362D0B131CC862F60069D2C5 /* Main.storyboard */; settings = {ASSET_TAGS = (100, 101, ); }; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		362A8C021CDF045F0019AE72 /* PlayerDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerDetailsViewController.swift; sourceTree = "<group>"; };
+		362A8C041CDF11910019AE72 /* GamePickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GamePickerViewController.swift; sourceTree = "<group>"; };
 		362D0B0C1CC862F40069D2C5 /* Lab1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		362D0B0F1CC862F60069D2C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		362D0B111CC862F60069D2C5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				362D0B0F1CC862F60069D2C5 /* AppDelegate.swift */,
 				362D0B111CC862F60069D2C5 /* ViewController.swift */,
 				362D0B131CC862F60069D2C5 /* Main.storyboard */,
+				362A8C041CDF11910019AE72 /* GamePickerViewController.swift */,
+				362A8C021CDF045F0019AE72 /* PlayerDetailsViewController.swift */,
 				36734F6A1CC9F3C000226503 /* Player.swift */,
 				36734F6C1CC9F5CC00226503 /* SampleData.swift */,
 				36734F681CC9F33100226503 /* PlayersViewController.swift */,
@@ -151,6 +157,8 @@
 			files = (
 				36734F6B1CC9F3C000226503 /* Player.swift in Sources */,
 				362D0B121CC862F60069D2C5 /* ViewController.swift in Sources */,
+				362A8C051CDF11910019AE72 /* GamePickerViewController.swift in Sources */,
+				362A8C031CDF045F0019AE72 /* PlayerDetailsViewController.swift in Sources */,
 				362D0B101CC862F60069D2C5 /* AppDelegate.swift in Sources */,
 				36734F6D1CC9F5CC00226503 /* SampleData.swift in Sources */,
 				36734F691CC9F33100226503 /* PlayersViewController.swift in Sources */,
